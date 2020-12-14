@@ -1,7 +1,14 @@
 
 body{
-    background-color: lightgray;
+    background-color: #D3D3D3;
     font-family: 'Sansita Swashed'; 
     text-align: center;
   
+}
+
+.profile {
+padding: 20px;
+    border: 5px double #8B008B;
+
+
 }
